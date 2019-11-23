@@ -3,8 +3,7 @@ gem "rspec"
 gem "sinatra", "1.4.4"
 gem "hashie"
 gem "octokit", "~> 2.0"
-gem "awesome_print", :git => 'login@example.com:some-user-account/some-private-gem.git'
- 
+gem "awesome_print", git: 'https://github.com'
 group :development do
 gem "pry"
 end

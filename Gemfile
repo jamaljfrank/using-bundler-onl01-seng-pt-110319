@@ -8,4 +8,3 @@ group :development do
 gem "pry"
 group :test do
   gem "rspec"
-end

@@ -1,5 +1,5 @@
-require 'Hashie'
-require 'Sinatra'
-require 'Octokit'
+'Hashie'
+'Sinatra'
+'Octokit'
 
 require_relative '../config/environment'
